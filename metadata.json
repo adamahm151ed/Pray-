@@ -1,0 +1,6 @@
+{
+  "name": "Prayer Reminder & Focus Lock",
+  "description": "An Islamic prayer assistant with customized sound alarms, customizable snooze timer, points leaderboard, wallpaper reward shop, and a full-screen App focus lock that blocks access until you fulfill your prayer vows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
